@@ -1,36 +1,29 @@
 {
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Dineth Shakya",
+            "email": "e20055@eng.pdn.ac.lk",
+            "eNumber": "E/20/055"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Ishara Ekanayaka",
+            "email": "e20094@eng.pdn.ac.lk",
+            "eNumber": "E/20/094"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Sandalu Umayanga",
+            "email": "e20284@eng.pdn.ac.lk",
+            "eNumber": "E/20/284"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Dr. Suneth Namal Karunarathna",
+            "email": "namal@eng.pdn.ac.lk"
         },
         {
-            "name": "Dr. Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
-        }
-    ],
-    "media": [
-        {
-            "type": "youtube",
-            "title": "",
-            "url": "#"
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk"
         }
     ],
     "tags": ["Final Year Projects"]
